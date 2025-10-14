@@ -1,13 +1,30 @@
-h1{
-    color: blue;
-    background-color: blanchedalmond;
+/* .myClass {
+  color: blue;
+  background-color: blanchedalmond;
 }
 
-body{
-    background-color: aquamarine;
+body {
+  background-color: aquamarine;
 }
 
-button{
-    background-color: blue;
-    color: #fff;
+button {
+  background-color: blue;
+  color: #fff;
+} */
+
+/* #box {
+  height: 250px;
+  width: 100px;
+  border: 1px solid #000;
+  margin: 5px;
+  text-align: center;
+  background-color: aquamarine;
+} */
+
+.content{
+  color: red;
+}
+
+.newClass {
+  background-color: antiquewhite;
 }
