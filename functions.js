@@ -90,10 +90,18 @@
 
 // reduce
 
+// let arr = [5,11, 4, 77, 42,97, 101];
+
+// let newVal = arr.reduce((prev, curr) => {
+//     return prev < curr ? prev : curr;
+// });
+
+// console.log(newVal);
+
 let arr = [5,11, 4, 77, 42,97, 101];
 
-let newVal = arr.reduce((prev, curr) => {
-    return prev < curr ? prev : curr;
+arr.forEach((val) => {
+    return val * 2;
 });
 
-console.log(newVal);
+console.log(arr);
