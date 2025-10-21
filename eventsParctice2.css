@@ -1,0 +1,16 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+.inside {
+  background-color: yellow;
+  color: black;
+}
+
+i {
+  color: red;
+}
